@@ -9,6 +9,8 @@ Watch my *[DEMO VIDEO!](link)*(https://drive.google.com/drive/folders/1Gi3bn9qPW
   * python semantics & syntax
 * [Weather Master](https://github.com/Rita-Ning/sc-turing/blob/main/stanCode-Project/weather%20master/weather_master.py)
   * python semantics & syntax
+* [MyPhotoshop](https://github.com/Rita-Ning/sc-turing/blob/main/stanCode-Project/my%20photoshop/best_photoshop_award.py)
+  * image procesing
 * [Padastrian removing Application](https://github.com/Rita-Ning/sc-turing/blob/main/stanCode-Project/pedestrian%20removing%20application/stanCodoshop.py)
   * image procesing
 * [Breakout Game](https://github.com/Rita-Ning/sc-turing/blob/main/stanCode-Project/break%20out%20game/breakout.py)
