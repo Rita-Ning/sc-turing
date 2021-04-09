@@ -6,14 +6,14 @@ Watch my *[DEMO VIDEO!](link)*(https://drive.google.com/drive/folders/1Gi3bn9qPW
 
 ## Project Source Codes:
 * [Hangman Game](https://github.com/Rita-Ning/sc-turing/blob/main/stanCode-Project/hangout%20game/hangman.py)
- * python semantics & syntax
+  * python semantics & syntax
 * [Weather Master](https://github.com/Rita-Ning/sc-turing/blob/main/stanCode-Project/weather%20master/weather_master.py)
- * python semantics & syntax
+  * python semantics & syntax
 * [Padastrian removing Application](https://github.com/Rita-Ning/sc-turing/blob/main/stanCode-Project/pedestrian%20removing%20application/stanCodoshop.py)
- * image procesing
+  * image procesing
 * [Breakout Game](https://github.com/Rita-Ning/sc-turing/blob/main/stanCode-Project/break%20out%20game/breakout.py)
- * animation & game designing
+  * animation & game designing
 * [Name Popularity Searching System](https://github.com/Rita-Ning/sc-turing/blob/main/stanCode-Project/name%20popularity%20searching%20system/babygraphics.py)
- * data structure
+  * data structure
 * [Boggle Game solver](https://github.com/Rita-Ning/sc-turing/blob/main/stanCode-Project/boggle%20game%20solver/boggle.py)
- * recursive functions
+  * recursive functions
